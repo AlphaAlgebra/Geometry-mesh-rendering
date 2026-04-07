@@ -3,6 +3,9 @@
 
 <img width="435" height="581" alt="Screenshot 2026-04-06 9 49 06 PM" src="https://github.com/user-attachments/assets/aa2f0f9f-26e8-45d6-9f63-0ec0cd0b37b8" />
 
+<img width="543" height="594" alt="Screenshot 2026-04-06 10 23 37 PM" src="https://github.com/user-attachments/assets/c2eb79f3-2274-4b4c-a483-e7e39cded3eb" />
+
+
 
 ## Project Ethos
 **AlphaAlgebra** is a technical deep-dive into **3D spatial mathematics** and **hacker-aesthetic rendering**. This suite demonstrates how to architect complex geometric relationships—ranging from convex hull derivations to recursive volumetric fractals—within a high-performance WebGL environment.
@@ -19,8 +22,9 @@
 *   **Volumetric "Cyber-Glow":** Multi-layer mesh scaling and opacity falloff to simulate neon-pink atmospheric light bleed.
 
 ## Inspiration & Provenance
-This repository was born from a technical exploration of the **Seeinglogic** 3D visual framework. 
+This repository was born from a technical exploration of the **Seeinglogic** 3D visual blog: 
 
+*   **Author:** Mark Griffin ([@seeinglogic](https://github.com))
 *   **Original Article:** [Taking the first step into 3D visuals with Python](https://seeinglogic.com)
 *   **Credit:** **Seeinglogic (March 5, 2024)** — *Dev/hacker exploring software and security through visualizations.*
 *   **Adaptation:** This engine extends the original icosahedron concept into an interactive, animated, and stylized "Deep Space" environment with added recursive fractal support.
