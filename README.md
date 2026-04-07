@@ -24,11 +24,10 @@
 ## Inspiration & Provenance
 This repository was born from a technical exploration of the **Seeinglogic** 3D visual blog: 
 
-*   * **Author:** Mark Griffin ([@seeinglogic](https://github.com))
-*   **Original Article:** [Taking the first step into 3D visuals with Python](https://seeinglogic.com)
-*   **Credit:** **Seeinglogic (March 5, 2024)** — *Dev/hacker exploring software and security through visualizations.*
-*   **Adaptation:** This engine extends the original icosahedron concept into an interactive, animated, and stylized "Deep Space" environment with added recursive fractal support.
-
+* **Author:** Mark Griffin ([@seeinglogic](https://github.com))
+* **Original Article:** [Taking the first step into 3D visuals with Python](https://seeinglogic.com)
+* **Credit:** **Seeinglogic (March 5, 2024)** — *Dev/hacker exploring software and security through visualizations.*
+* **Adaptation:** This engine extends the original icosahedron concept into an interactive, animated, and stylized "Deep Space" environment with added recursive fractal support.
 
 ## Deployment
 ```bash
