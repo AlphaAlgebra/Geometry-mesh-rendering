@@ -1,6 +1,7 @@
 # Geometry Mesh Rendering | AlphaAlgebra Engine v3.0
 ### Advanced Computational Geometry & Recursive Fractal Visualization
 
+<img width="435" height="581" alt="Screenshot 2026-04-06 9 49 06 PM" src="https://github.com/user-attachments/assets/aa2f0f9f-26e8-45d6-9f63-0ec0cd0b37b8" />
 
 
 ## Project Ethos
